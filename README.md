@@ -1,5 +1,5 @@
 # App-RhythmDance
-An application of Musical Notes Rhythm Dance
+An application of Musical Notes Rhythm Dance.
 
 ## Name
 音符律动
