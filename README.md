@@ -1,2 +1,10 @@
 # App-RhythmDance
-A application of Musical Rhythm Dance
+An application of Musical Notes Rhythm Dance
+
+## Name
+音符律动
+
+## System
+Android 6.0+
+
+## Demonstrate
